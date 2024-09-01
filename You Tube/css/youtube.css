@@ -1,0 +1,1526 @@
+#outer
+{
+    height: 1080px;
+    width: 1450px;
+    //border: 1px solid;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#header
+{
+    height:70px;
+    width: 1448px;
+   // border: 1px solid;
+    margin: auto;
+
+
+}
+
+hr {
+    border-top:rgb(56, 56, 56);
+    width:80%
+    
+    }
+    
+#search button
+{
+    height:40px;
+    width: 570px;
+    //border: 1px solid;
+    margin-left:280px;
+    margin-top: 15px;
+    border-radius:25px;
+    border: 1px solid lightgray;
+    
+}
+#search input
+{
+    height: 40px;
+    width: 520px;
+    border: 1px solid lightgrey;
+    margin-top: -2px;
+    margin-left: -46px;
+    border-radius: 25px 0px 0px 25px;
+    font-size: 16px;
+}
+
+#search button a{
+    color: 	 #666666;
+    font-size: 9px;
+    margin-left:15px;
+    margin-top: 2px;
+    
+
+}
+#search h4
+{  
+   
+     color: rgb(35, 35, 35);
+    margin-top:-18px;
+    margin-left:1050px;
+}
+#search h2 i{
+    color: black;
+   
+}
+#logo
+{
+    height: 40px;
+    width: 160px;
+   // border: 1px solid;
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+}
+#logo button{
+    border-radius: 100px;
+    height: 40px;
+    float: left;
+    border: white;
+    width: 40px;
+    background-color: white;
+}
+#Ulogo
+{
+    height:40px;
+    width:118px;
+    float: left;
+    
+   // border: 1px solid;
+    
+
+}
+
+
+#logo #Ulogo button{
+    height: 39px;
+    width: 118px;
+    margin-top: 7px;
+    margin-left: 10px;
+    border: white;
+    border-radius: 0px;
+    background-image: url('../images/youtube-logo-9.png');
+    background-size:100px;
+    background-repeat: no-repeat;
+
+    
+}
+#logo #Ulogo button{
+    font-size: 15px;
+   
+   
+}
+#logo #Ulogo button i{
+    color: black;
+    font-size: 20px;
+    
+}
+
+#notification
+{
+    height: 40px;
+    width: 180px;
+    //border: 1px solid;
+    float: right;
+    margin-top: -42.5px;
+    margin-left: 10px;
+}
+#notification button 
+{
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    margin-left: 4px;
+    border-radius: 100px;
+    background-color:white;
+    
+}
+#notification button i{
+    color: rgb(42, 42, 42);
+    font-size: 20px;
+}
+
+
+
+#solder
+{
+    height:1007 ;
+    width: 1448px;
+    //border: 1px solid;
+    margin: auto;
+    margin-top: 2px;
+}
+#left
+{
+    height:1005;
+    width: 300px;
+    float: left;
+   // border: 1px solid;
+
+}
+#leftfirst
+{
+    height: 130px;
+    width:299px;
+    //border: 1px solid;
+    margin-top: auto;
+}
+#leftfirst #home
+{
+    height: 40px;
+    width:180px;
+    //border: 1px solid;
+    margin-left: 27px;
+    margin-top: 5px;
+}
+#leftfirst #home a
+{
+    margin-left: 15px;
+   text-decoration: none;
+   color: black;
+   font-size: 16px;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#leftfirst #Short
+{
+    height: 40px;
+    width:180px;
+   // border: 1px solid;
+    margin-left: 27px;
+    margin-top: 5px;
+}
+#leftfirst #Short a{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ }
+#leftfirst #Sub
+{
+    height: 40px;
+    width:180px;
+    margin-top: 5px;
+   // border: 1px solid;
+    margin-left: 27px;
+}
+#leftfirst #sub a
+{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ }
+
+
+#leftsecond
+{
+    height: 280px;
+    width: 299px;
+    //border: 1px solid;
+    margin: auto;
+}
+#S7
+{
+    height: 40px;
+    width: 180px;
+    margin-left: 15px;
+   // border: 1px solid;
+}
+#leftsecond #S7 a
+{
+    text-decoration:none;
+    color: black;
+    font-size: 16px;
+   margin-left: 5px;
+
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+
+#S1
+{
+    height: 40px;
+    width: 180px;
+   // border: 1px solid;
+    margin-left: 27px;
+    margin-top: 1px;
+}
+#S1 a
+{   
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+
+}
+#S2
+{
+    height: 40px;
+    width: 180px;
+    //border: 1px solid;
+    margin-top: 2px;
+    margin-left: 27px;
+
+}
+#S2 a
+{    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+
+}
+#S3
+{
+    height: 40px;
+    width: 180px;
+    //border: 1px solid;
+    margin-top: 1px;
+    margin-left: 27px;
+}
+#S3 a
+{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+
+}
+
+#S4
+{
+    height: 40px;
+    width: 180px;
+   // border: 1px solid;
+    margin-left: 27px;
+    margin-top: 1px;
+}
+#S4 a
+{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+
+}
+
+#S5
+{
+    height: 40px;
+    width: 180px;
+   // border: 1px solid;
+    margin-top: 1px;
+    margin-left: 27px;
+}
+#S5 a
+{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+
+}
+
+#S6
+{
+    height: 40px;
+    width: 180px;
+    //border: 1px solid;
+    margin-top: 1px;
+    margin-left: 27px;
+}
+#S6 a
+{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+
+}
+
+
+#leftthird
+{
+    
+    height: 230px;
+    width: 299px;
+    //border: 1px solid;
+    margin: auto;
+}
+#leftthird #cse
+{
+    height: 40px;
+    width: 180px;
+    //border: 1px solid;
+}
+#leftthird #cse a
+{  margin-left: 15px;
+    text-decoration: none;
+    color: rgb(88, 87, 87);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17.5px;
+
+
+}
+
+#leftthird #cse1
+{
+    height: 40px;
+    width: 180px;
+    //border: 1px solid;
+    margin-left: 27px;
+}
+#leftthird #cse1 #single
+{
+    margin-top:-25px;
+    height: 25px;
+    width: 25px;
+    border: 1px solid rgb(193, 193, 193);
+    border-radius: 100px;
+    background-image: url('../images/aaj_tak-removebg-preview.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#leftthird #cse1 a{
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left:34px;
+    color: black;
+    text-decoration: none;
+
+   
+    
+}
+
+#leftthird #cse2
+{
+    height: 40px;
+    width: 180px;
+  //  border: 1px solid;
+    margin-left: 27px;
+}
+#leftthird #cse2 a{
+    margin-top: 10px;;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left:34px;
+    color: black;
+    text-decoration: none;
+    
+   
+}
+#leftthird #cse2 #double
+{
+    margin-top:-25px;
+    height: 25px;
+    width: 25px;
+    border: 1px solid rgb(193, 193, 193);
+    border-radius: 100px;
+    background-image: url('../images/exampur-removebg-preview.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#leftthird #cse3
+{
+    height: 40px;
+    width: 180px;
+   // border: 1px solid;
+    margin-left: 27px;
+}
+#leftthird #cse3 a
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left:34px;
+    color: black;
+    text-decoration: none;
+    
+   
+}
+#leftthird #cse3 #thirdl
+{
+    margin-top:-25px;
+    height: 25px;
+    width: 25px;
+    border: 1px solid rgb(193, 193, 193);
+    border-radius: 100px;
+    background-image: url('../images/t-series-removebg-preview.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#leftthird #cse4
+{
+    height: 40px;
+    width: 200px;
+    //border: 1px solid;
+    margin-left: 27px;
+}
+#leftthird #cse4 a
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left:34px;
+    color: black;
+    text-decoration: none;
+    
+   
+}
+#leftthird #cse4 #fourml
+{
+    margin-top: -25px;
+    height: 25px;
+    width: 25px;
+    border: 1px solid rgb(193, 193, 193);
+    border-radius: 100px;
+    background-image: url('../images/university-removebg-preview.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#leftthird #cse5
+{
+    height: 40px;
+    width: 180px;
+   // border: 1px solid;
+    margin-left: 27px;
+}
+#leftthird #cse5 a{
+    text-decoration: none;
+     
+    margin-left: 10px;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+}
+#leftthird #cse5 i{
+    font-size: 20px;
+}
+#leftfour
+{
+    height: 310px;
+    width: 299px;
+    //border: 1px solid;
+
+}
+#leftfour #leftfourone
+{
+    height: 40px;
+    width: 180px;
+  //  border: 1px solid;
+
+}
+#leftfour #leftfourone a
+{
+    text-decoration: none;
+    margin-left: 20px;
+    color: rgb(88, 87, 87); 
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#leftfourtwo
+{
+    height: 40px;
+    width: 180px;
+    //border: 1px solid;
+    margin-left: 27px;
+
+}
+#leftfourtwo i{
+
+    font-size:19px;
+    
+}
+#leftfourtwo a{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+  
+
+
+
+
+
+
+
+#right
+{
+    height:902px;
+    width: 1144px ;
+    float: right;
+    margin: auto;
+    //border: 1px solid;
+    float: left;
+}
+#navbarup
+{
+    height: 40px;
+    width: 1143px;
+   // border: 1px solid;
+
+}
+#navigationbar
+{
+    height: 30px;
+    width: 1142px;
+    margin: auto;
+    margin-left: -40;
+    margin-top:-9px;
+   
+   
+    
+    
+}
+#navigationbar ul li
+{
+    display: inline;
+    list-style-type:none;
+    padding: 7px;
+    background-color: #f6f5f5;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top:-5px ;
+     
+}
+#navigationbar ul li a
+{
+    
+    text-decoration: none;
+    font-size:14px;
+    font-family:Roboto;
+    color: rgb(100, 100, 100); 
+    
+  
+}
+#downpart
+{
+    height: 860px;
+    width: 1143px;
+    //border: 1px solid;
+    margin: auto;
+}
+#one
+{
+    height: 300px;
+    width: 370px; 
+   // border:1px solid; 
+    margin-left:1px;
+    float: left;
+    margin-top:20px;
+}
+#onefirst
+{
+    height: 220px;
+    width: 368px;
+    border: 1px solid rgb(158, 157, 157);
+    margin: auto;
+    background-image: url('../images/dhokebaz');
+    background-size: cover;  
+    border-radius:  15px;;
+ 
+}
+#onefirst #c1
+{
+    height: 17px;
+    width: 29px;
+    //border: 1px solid;
+   margin-top: 198px;
+   margin-left:325px;
+   background-color: rgb(13, 13, 13);
+   border-radius: 2px;
+}
+#onefirst #c1 h1{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 1px;
+    color: white;
+}
+#c2
+{
+    height: 17px;
+    width: 29px;
+    border: 1px solid;
+   margin-top: 198px;
+   margin-left:325px;
+   background-color: rgb(13, 13, 13);
+   border-radius: 2px;
+}
+#c2 h1{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 1px;
+    color: white;
+
+}
+#c3
+{
+    height: 17px;
+    width:40px;
+    border: 1px solid;
+   margin-top: 198px;
+   margin-left:325px;
+   background-color: rgb(13, 13, 13);
+   border-radius: 2px;
+}
+#c3 h1{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 1px;
+    color: white;
+}
+#c4 
+{
+    height: 17px;
+    width:29px;
+    border: 1px solid;
+   margin-top: 198px;
+   margin-left:325px;
+   background-color: rgb(13, 13, 13);
+   border-radius: 2px;
+
+}
+#c4 h1
+{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 1px;
+    color: white;  
+
+}
+#c5
+{
+    height: 17px;
+    width:29px;
+    border: 1px solid;
+   margin-top: 198px;
+   margin-left:325px;
+   background-color: rgb(13, 13, 13);
+   border-radius: 2px;
+
+}
+#c5 h1
+{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 1px;
+    color: white;  
+
+}
+#c6 
+{
+    height: 17px;
+    width:29px;
+    border: 1px solid;
+   margin-top: 198px;
+   margin-left:325px;
+   background-color: rgb(13, 13, 13);
+   border-radius: 2px;
+
+}
+#c6 h1
+{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 1px;
+    color: white;  
+
+}
+#c7 
+{
+    height: 17px;
+    width:29px;
+    border: 1px solid;
+   margin-top: 198px;
+   margin-left:325px;
+   background-color: rgb(13, 13, 13);
+   border-radius: 2px;
+
+}
+#c7 h1
+{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 1px;
+    color: white;  
+
+}
+#c8
+{
+    height: 17px;
+    width:45px;
+    border: 1px solid;
+   margin-top: 198px;
+   margin-left:310px;
+   background-color: rgb(13, 13, 13);
+   border-radius: 2px;
+
+}
+#c8 h1
+{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 1px;
+    color: white;  
+
+}
+#c9
+{
+    height: 17px;
+    width:29px;
+    border: 1px solid;
+   margin-top: 198px;
+   margin-left:325px;
+   background-color: rgb(13, 13, 13);
+   border-radius: 2px;
+
+}
+#c9 h1
+{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 1px;
+    color: white;  
+
+}
+
+
+
+#onesecond #Channel1
+{
+    height: 40px;
+    width: 40px;
+    //border: 1px solid;
+    margin-top: 10px;
+    margin-left: 1px;
+    border-radius: 100px;
+    background-image: url('../images/channel1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#onesecond
+{
+    height: 80px;
+    width: 368px;
+    //border: 1px solid;
+    margin: auto;
+}
+#onesecond a h4 
+{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 15px;
+  color: rgb(60, 60, 60); 
+ margin-left:55px;
+ margin-top:-45px;
+ text-decoration: none;
+
+}
+ 
+
+#onesecond a 
+{
+    color: rgb(60, 60, 60); 
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#onesecond p {
+    font-size: 16px;
+    margin-top:-18px;
+    margin-left:55px;  
+    font-family: Calibri;
+
+} 
+#onesecond p a{
+    text-decoration: none;
+    color: black;
+    color: rgb(60, 60, 60); 
+    font-family: Calibri; 
+    
+}
+#onesecond i
+{
+    font-size: 20px;
+    margin-top:-78px;
+    margin-left:355px;
+    color:rgb(48, 47, 47); 
+}
+
+
+
+#two
+{
+    height:300px;
+    width: 370px; 
+    //border:1px solid; 
+    margin-left: 13.5px;
+    float: left;
+    margin-top: 20px;
+}
+#twopahla
+{
+    height: 220px;
+    width: 368px;
+    border: 1px solid rgb(158, 157, 157);
+    margin: auto;
+    background-image: url('../images/ekdin.jpg');
+    background-size: cover;  
+    border-radius:  15px;;
+  
+
+}
+#twodusra
+{
+    height: 80px;
+    width: 368px;
+   // border: 1px solid;
+    margin: auto;
+}
+#channel2
+{
+    height: 40px;
+    width: 40px;
+    //border: 1px solid;
+    margin-top: 10px;
+    margin-left: 1px;
+    border-radius: 100px;
+    background-image: url('../images/ish.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#twodusra a h4 
+{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 15px;
+ color: rgb(60, 60, 60); 
+ margin-left:55px;
+ margin-top:-45px;
+ text-decoration: none;
+
+}
+ 
+
+#twodusra a 
+{
+    color: rgb(60, 60, 60); 
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#twodusra p {
+    font-size: 16px;
+    margin-top:-18px;
+    margin-left:55px;  
+    font-family: Calibri;
+
+} 
+#twodusra p a{
+    text-decoration: none;
+    color: black;
+    color:rgb(48, 47, 47); 
+    font-family: Calibri; 
+    
+}
+#twodusra i
+{
+    font-size: 20px;
+    margin-top:-78px;
+    margin-left:355px;
+    color:rgb(48, 47, 47); 
+}
+
+#three
+{
+    height:300px;
+    width: 370px; 
+    //border:1px solid; 
+    margin-left:13.5px;
+    float: left;
+    margin-top:20px;
+}
+#threeaak
+{
+    height: 220px;
+    width: 368px;
+    border: 1px solid rgb(158, 157, 157);
+    margin: auto;
+    background-image: url('../images/poster3.jpg');
+    background-size: cover;  
+    border-radius:  15px;;
+  
+}
+#threedo
+{
+    height: 80px;
+    width: 368px;
+    //border: 1px solid;
+    margin: auto;
+}
+#channel3
+{
+    height: 40px;
+    width: 40px;
+    //border: 1px solid;
+    margin-top: 10px;
+    margin-left: 1px;
+    border-radius: 100px;
+    background-image: url('../images/mohabat.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#threedo a h4 
+{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 15px;
+ color: rgb(60, 60, 60); 
+ margin-left:55px;
+ margin-top:-45px;
+ text-decoration: none;
+
+}
+
+#threedo a 
+{
+    color: rgb(60, 60, 60); 
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#threedo p {
+    font-size: 16px;
+    margin-top:-18px;
+    margin-left:55px;  
+    font-family: Calibri;
+
+} 
+#threedo p a{
+    text-decoration: none;
+    color: black;
+    color:rgb(48, 47, 47); 
+    font-family: Calibri; 
+    
+}
+#threedo i
+{
+    font-size: 20px;
+    margin-top:-78px;
+    margin-left:355px;
+    color:rgb(48, 47, 47); 
+}
+
+#four
+{
+    height: 300px;
+    width: 370px; 
+    //border:1px solid; 
+    margin-left:1px;
+    float: left;
+    margin-top:20px;
+}
+#fourbeta
+{
+    height: 220px;
+    width: 368px;
+    border: 1px solid rgb(158, 157, 157);
+    margin: auto;
+    background-image: url('../images/poster4.jpg');
+    background-size: cover;  
+    border-radius:  15px;;
+  
+}
+#fourbhai
+{
+    height: 80px;
+    width: 368px;
+    //border: 1px solid;
+    margin: auto;
+}
+#channel4
+{
+    height: 40px;
+    width: 40px;
+    //border: 1px solid;
+    margin-top: 10px;
+    margin-left: 1px;
+    border-radius: 100px;
+    background-image: url('../images/t-series-removebg-preview.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#fourbhai a h4 
+{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 15px;
+ color: rgb(60, 60, 60); 
+ margin-left:55px;
+ margin-top:-45px;
+ text-decoration: none;
+
+}
+
+#fourbhai a 
+{
+    color: rgb(60, 60, 60); 
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#fourbhai p {
+    font-size: 16px;
+    margin-top:-18px;
+    margin-left:55px;  
+    font-family: Calibri;
+
+} 
+#fourbhai p a{
+    text-decoration: none;
+    color: black;
+    color:rgb(48, 47, 47); 
+    font-family: Calibri; 
+    
+}
+#fourbhai i
+{
+    font-size: 20px;
+    margin-top:-78px;
+    margin-left:355px;
+    color:rgb(48, 47, 47); 
+}
+#channel5
+{
+    height: 40px;
+    width: 40px;
+    //border: 1px solid;
+    margin-top: 10px;
+    margin-left: 1px;
+    border-radius: 100px;
+    background-image: url('../images/swati.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#channel6
+{
+    height: 40px;
+    width: 40px;
+    //border: 1px solid;
+    margin-top: 10px;
+    margin-left: 1px;
+    border-radius: 100px;
+    background-image: url('../images/t-series-removebg-preview.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#channel7
+{
+    height: 40px;
+    width: 40px;
+    //border: 1px solid;
+    margin-top: 10px;
+    margin-left: 1px;
+    border-radius: 100px;
+    background-image: url('../images/neelkamal.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#channel8
+{
+    height: 40px;
+    width: 40px;
+    //border: 1px solid;
+    margin-top: 10px;
+    margin-left: 1px;
+    border-radius: 100px;
+    background-image: url('../images/channel4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#channel9
+{
+    height: 40px;
+    width: 40px;
+    //border: 1px solid;
+    margin-top: 10px;
+    margin-left: 1px;
+    border-radius: 100px;
+    background-image: url('../images/t-series-removebg-preview.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#five
+{
+    height:300px;
+    width: 370px; 
+    //border:1px solid; 
+    margin-left:13.5px;
+    float: left;
+    margin-top:20px;
+}
+#fiveone
+{
+    height: 220px;
+    width: 368px;
+    border: 1px solid rgb(158, 157, 157);
+    margin: auto;
+    background-image: url('../images/krishna poster.jpg');
+    background-size: cover;  
+    border-radius:  15px;;
+  
+}
+#fivetwo
+{
+    height: 80px;
+    width: 368px;
+    //border: 1px solid;
+    margin: auto;
+    
+}
+#fivetwo a h4 
+{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 15px;
+ color: rgb(60, 60, 60); 
+ margin-left:55px;
+ margin-top:-45px;
+ text-decoration: none;
+
+}
+
+#fivetwo a 
+{
+    color: rgb(60, 60, 60); 
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#fivetwo p {
+    font-size: 16px;
+    margin-top:-18px;
+    margin-left:55px;  
+    font-family: Calibri;
+
+} 
+#fivetwo p a{
+    text-decoration: none;
+    color: black;
+    color:rgb(48, 47, 47); 
+    font-family: Calibri; 
+    
+}
+#fivetwo i
+{
+    font-size: 20px;
+    margin-top:-78px;
+    margin-left:355px;
+    color:rgb(48, 47, 47); 
+}
+#six
+{
+    height:300px;
+    width: 370px; 
+    //border:1px solid; 
+    margin-left:13.5px;
+    float: left;
+    margin-top:20px;
+
+}
+#sixone
+{
+    height: 220px;
+    width: 368px;
+    border: 1px solid rgb(158, 157, 157);
+    margin: auto;
+    background-image: url('../images/poster7.jpg');
+    background-size: cover;  
+    border-radius:  15px;;
+  
+}
+#sixtwo
+{
+    height: 80px;
+    width: 368px;
+    //border: 1px solid;
+    margin: auto;
+}
+#sixtwo a h4 
+{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 15px;
+  color: rgb(48, 47, 47); 
+ margin-left:55px;
+ margin-top:-45px;
+ text-decoration: none;
+
+}
+
+#sixtwo a 
+{
+    color:rgb(48, 47, 47); 
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#sixtwo p {
+    font-size: 16px;
+    margin-top:-18px;
+    margin-left:55px;  
+    font-family: Calibri;
+
+} 
+#sixtwo p a{
+    text-decoration: none;
+    color: black;
+    color:rgb(48, 47, 47); 
+    font-family: Calibri; 
+    
+}
+#sixtwo i
+{
+    font-size: 20px;
+    margin-top:-78px;
+    margin-left:355px;
+    color:rgb(48, 47, 47); 
+}
+#seven
+{
+    height:300px;
+    width: 370px; ;
+    //border:1px solid; 
+    margin-left:1px;
+    float: left;
+    margin-top: 20px;
+}
+#sevenone
+{
+    height: 220px;
+    width: 368px;
+    border: 1px solid rgb(158, 157, 157);
+    margin: auto;
+    background-image: url('../images/poster5.jpg');
+    background-size: cover;  
+    border-radius:  15px;;
+
+}
+#seventwo
+{
+    height: 80px;
+    width: 368px;
+    //border: 1px solid;
+    margin: auto;
+}
+#seventwo a h4 
+{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 15px;
+ color: rgb(60, 60, 60); 
+ margin-left:55px;
+ margin-top:-45px;
+ text-decoration: none;
+
+}
+
+#seventwo a 
+{
+    color: rgb(60, 60, 60); 
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#seventwo p {
+    font-size: 16px;
+    margin-top:-18px;
+    margin-left:55px;  
+    font-family: Calibri;
+
+} 
+#seventwo p a{
+    text-decoration: none;
+    color: black;
+    color:rgb(48, 47, 47); 
+    font-family: Calibri; 
+    
+}
+#seventwo i
+{
+    font-size: 20px;
+    margin-top:-78px;
+    margin-left:355px;
+    color:rgb(48, 47, 47); 
+}
+
+#papa
+{
+    height:300px;
+    width: 370px; 
+    //border:1px solid; 
+    margin-left:13.5px;
+    float: left;
+    margin-top:20px;
+
+}
+#pop
+{
+    height:300px;
+    width: 370px; 
+    //border:1px solid; 
+    margin-left:13.5px;
+    float: left;
+    margin-top:20px;
+
+}
+#moon
+{
+    height: 220px;
+    width: 368px;
+    border: 1px solid rgb(158, 157, 157);
+    margin: auto;
+    background-image: url('../images/poster11.jpg');
+    background-size: cover;  
+    border-radius:  15px;;
+ 
+
+}
+#mohan
+{
+    height: 80px;
+    width: 368px;
+    //border: 1px solid;
+    margin: auto;
+}
+#mohan a h4 
+{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 15px;
+ color: rgb(60, 60, 60); 
+ margin-left:55px;
+ margin-top:-45px;
+ text-decoration: none;
+
+}
+
+#mohan a 
+{
+    color:rgb(48, 47, 47); 
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#mohan p {
+    font-size: 16px;
+    margin-top:-18px;
+    margin-left:55px;  
+    font-family: Calibri;
+
+} 
+#mohan p a{
+    text-decoration: none;
+    color: black;
+    color:rgb(48, 47, 47); 
+    font-family: Calibri; 
+    
+}
+#mohan i
+{
+    font-size: 20px;
+    margin-top:-78px;
+    margin-left:355px;
+    color:rgb(48, 47, 47); 
+}
+#peeople
+{
+    height:300px;
+    width: 370px; 
+    //border:1px solid; 
+    margin-left:13.5px;
+    float: left;
+    margin-top:20px;
+    
+}
+#moona
+{
+    height: 220px;
+    width: 368px;
+    border: 1px solid rgb(158, 157, 157);
+    margin: auto;
+    background-image: url('../images/sajni.jpg');
+    background-size: cover;  
+    border-radius:  15px;;
+ 
+}
+#mohanani
+{
+    height: 80px;
+    width: 368px;
+    //border: 1px solid;
+    margin: auto;
+
+}
+#mohanani a h4 
+{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 15px;
+ color: rgb(60, 60, 60); 
+ margin-left:55px;
+ margin-top:-45px;
+ text-decoration: none;
+
+}
+
+#mohanani a 
+{
+    color:rgb(48, 47, 47); 
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#mohanani p {
+    font-size: 16px;
+    margin-top:-18px;
+    margin-left:55px;  
+    font-family: Calibri;
+
+} 
+#mohanani p a{
+    text-decoration: none;
+    color: black;
+    color:rgb(48, 47, 47); 
+    font-family: Calibri; 
+    
+}
+#mohanani i
+{
+    font-size: 20px;
+    margin-top:-78px;
+    margin-left:355px;
+    color:rgb(48, 47, 47); 
+}
+#mn
+{
+    height: 220px;
+    width: 368px;
+    border: 1px solid;
+    margin: auto;
+    background-image: url('../images/poster18.jpg');
+    background-size: cover;  
+    border-radius:  15px;;
+
+}
+#mohani
+{
+    height: 80px;
+    width: 368px;
+    border: 1px solid;
+    margin: auto;
+}
